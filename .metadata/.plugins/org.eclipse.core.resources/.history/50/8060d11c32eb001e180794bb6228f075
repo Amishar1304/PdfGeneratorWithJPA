@@ -1,0 +1,5 @@
+package com.beginner.pdfGeneratorwithTable.service;
+
+public class PdfGeneratorService {
+
+}

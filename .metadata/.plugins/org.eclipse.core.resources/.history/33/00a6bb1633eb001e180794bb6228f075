@@ -1,0 +1,12 @@
+package com.beginner.pdfGeneratorwithTable.service;
+
+import jakarta.servlet.http.HttpServletResponse;
+
+public class PdfGeneratorService {
+
+	public void export(HttpServletResponse response) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

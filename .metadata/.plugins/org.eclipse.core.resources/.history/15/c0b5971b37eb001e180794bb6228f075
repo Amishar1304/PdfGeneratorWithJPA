@@ -1,0 +1,13 @@
+package com.beginner.pdfGeneratorwithTable;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class PdfGeneratorwithTableApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(PdfGeneratorwithTableApplication.class, args);
+	}
+
+}

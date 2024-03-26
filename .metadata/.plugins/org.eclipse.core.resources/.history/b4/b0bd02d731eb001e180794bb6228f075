@@ -1,0 +1,13 @@
+package com.beginner.pdfGeneratorwithTable.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.beginner.pdfGeneratorwithTable.service.PdfGeneratorService;
+
+@RestController
+public class PdfGeneratorController {
+	@Autowired
+	private PdfGeneratorService pdfGeneratorservice;
+
+}

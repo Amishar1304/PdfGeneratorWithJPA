@@ -1,0 +1,5 @@
+package com.beginner.pdfGeneratorwithTable.entity;
+
+public class Employee {
+
+}
